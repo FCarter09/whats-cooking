@@ -17,6 +17,10 @@
 
 In this group project we are creating a full stack application that can solve a real-world problem.
 
+## Link
+
+https://whats-cooking2022-9af3ae3a6d1a.herokuapp.com/
+
 ## Contents
 
 - [Installation](#installation)
